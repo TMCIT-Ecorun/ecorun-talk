@@ -1,0 +1,7 @@
+numpy
+opuslib
+pyserial==3.5
+pyserial-asyncio==0.6
+sounddevice
+wsproto==1.3.2
+python-dotenv==1.1.1
